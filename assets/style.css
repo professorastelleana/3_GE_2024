@@ -17,6 +17,8 @@ body {
     height: 100%;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+    transform-style: preserve-3d;
+    transition: transform 308ms ease-in-out;
   }
 
   #container {
@@ -61,6 +63,8 @@ body {
   .cartao:hover .cartao__conteudo{
     transform: rotateY(180deg);
   }
+
+
 
   footer {
     color: white;
