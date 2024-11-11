@@ -1,11 +1,10 @@
-criarCartao(
+criaCartao(
     'Programação',
-    'O que é JavaScript?',
+    'O que é JavaScript',
     'É uma linguagem de programação'
 )
-
-criarCartao(
+criaCartao(
     'Geografia',
-    'Qual a capital da frança?',
-    'Paris'
+    'Qual a capital da França',
+    'A capital da França é Paris'
 )
